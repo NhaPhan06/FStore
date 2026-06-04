@@ -1,0 +1,15 @@
+D:\Project\FStore\SalesManagement\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Project\FStore\SalesManagement\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\Project\FStore\SalesManagement\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Project\FStore\SalesManagement\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Project\FStore\SalesManagement\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Project\FStore\SalesManagement\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\FStore\SalesManagement\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Project\FStore\SalesManagement\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Project\FStore\SalesManagement\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Project\FStore\SalesManagement\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Project\FStore\SalesManagement\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Project\FStore\SalesManagement\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Project\FStore\SalesManagement\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\Project\FStore\SalesManagement\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\Project\FStore\SalesManagement\DataAccess\obj\Debug\net6.0\DataAccess.sourcelink.json
